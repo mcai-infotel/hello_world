@@ -8,6 +8,7 @@ public class App
 {
     public static String get_message()
     {
+		// Commentaire
         return "Hello World !";
     }
 
